@@ -11,6 +11,12 @@
 # production
 /build
 
+# idea directory
+.idea/**
+
+# all .xml files
+*.xml
+
 # misc
 .DS_Store
 .env.local
